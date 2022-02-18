@@ -10,6 +10,16 @@
 
 # :four_leaf_clover:四叶草拼音输入方案
 
+## 自用fork
+基于上游clover，作出了以下修改：
+- 添加原神词库
+- 添加MC词库
+- 合并上游pr[#85](https://github.com/fkxxyz/rime-cloverpinyin/pull/85)
+- 上游issue[#106](https://github.com/fkxxyz/rime-cloverpinyin/issues/106)
+- 更改"帧"的拼音为"zhen"
+- 修复[中文转符号问题](https://github.com/fkxxyz/rime-cloverpinyin/issues/99)
+- [和其他一些东西](src/LLIN_custom.dict.yaml)
+
 
 ## 简介
 
